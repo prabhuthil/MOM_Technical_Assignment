@@ -1,0 +1,12 @@
+C:\MOM_Assignment\MOM_Assignment\MOM_Assignment\bin\Debug\MOM_Assignment.exe.config
+C:\MOM_Assignment\MOM_Assignment\MOM_Assignment\bin\Debug\MOM_Assignment.exe
+C:\MOM_Assignment\MOM_Assignment\MOM_Assignment\bin\Debug\MOM_Assignment.pdb
+C:\MOM_Assignment\MOM_Assignment\MOM_Assignment\bin\Debug\Newtonsoft.Json.dll
+C:\MOM_Assignment\MOM_Assignment\MOM_Assignment\bin\Debug\Newtonsoft.Json.pdb
+C:\MOM_Assignment\MOM_Assignment\MOM_Assignment\bin\Debug\Newtonsoft.Json.xml
+C:\MOM_Assignment\MOM_Assignment\MOM_Assignment\obj\Debug\MOM_Assignment.csproj.CoreCompileInputs.cache
+C:\MOM_Assignment\MOM_Assignment\MOM_Assignment\obj\Debug\MOM_Assignment.csproj.CopyComplete
+C:\MOM_Assignment\MOM_Assignment\MOM_Assignment\obj\Debug\MOM_Assignment.exe
+C:\MOM_Assignment\MOM_Assignment\MOM_Assignment\obj\Debug\MOM_Assignment.pdb
+C:\MOM_Assignment\MOM_Assignment\MOM_Assignment\bin\Debug\MarkdownLog.dll
+C:\MOM_Assignment\MOM_Assignment\MOM_Assignment\obj\Debug\MOM_Assignment.csprojAssemblyReference.cache
